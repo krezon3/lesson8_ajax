@@ -10,13 +10,12 @@ LIS 2360:  Web Application Development
 Christian Pughe
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning how to use another websites data and combine it with your own websits code.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://krezon3.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learnd how to add jsons to .js files.
+2. I learned how to ad id's to html files
+3. I learnd how to connect .js files to html files by using the $ sign connector
